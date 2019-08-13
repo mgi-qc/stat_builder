@@ -1,10 +1,11 @@
-# Guide for usage of stat_builder.py:
+# Guide for usage of stat_builder.py
 
-Run 'python3 stat_builder.py' on docker with python3(grub will work)
 
-The directory the script is run from does not matter as it will change directories as needed
+* Run 'python3 stat_builder.py' on docker with python3(gsub will work)
 
-The python3 used does not matter as it uses only packages included by default
+* The directory the script is run from does not matter as it will change directories as needed
+
+* The python3 used does not matter as it uses only packages included by default
 
 
 For Exome will move to:
